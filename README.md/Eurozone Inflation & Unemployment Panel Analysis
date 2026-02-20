@@ -1,3 +1,64 @@
 # Eurozone Inflation & Unemployment Panel Analysis
-Panel data regression analysis using Eurostat macroeconomic indicators.
 
+This project investigates whether the Phillips Curve relationship holds in modern European economies.
+
+Specifically, it analyzes the relationship between unemployment and inflation across selected Eurozone countries using panel data econometrics.
+
+---
+
+## Research Question
+Does unemployment negatively affect inflation in the Eurozone, or has the relationship weakened due to macroeconomic shocks?
+
+---
+
+## Data Sources
+- Eurostat: Harmonized Index of Consumer Prices (HICP)
+- Eurostat: Monthly unemployment rate
+- Monthly observations across multiple Eurozone countries
+
+The dataset is fully reproducible using the provided scripts.
+
+---
+
+## Methodology
+
+1. Automated data collection via API
+2. Panel dataset construction (country–time structure)
+3. Feature engineering
+   - Year-over-year inflation
+   - 12-month smoothed inflation
+   - Lagged unemployment (6 months)
+4. Econometric modeling
+   - Fixed Effects (country)
+   - Fixed Effects (country + time)
+5. Statistical inference
+
+---
+
+## Key Findings
+
+- A negative unemployment–inflation relationship appears when only country differences are considered.
+- After controlling for time shocks (energy crisis, pandemic, supply disruptions), the relationship weakens and reverses.
+- This suggests inflation in recent years is driven more by common macroeconomic shocks than labor market tightness.
+
+In other words: modern Eurozone inflation behaves more like cost-push inflation than demand-pull inflation.
+
+---
+
+## Repository Structure
+
+
+Raw data is intentionally excluded to ensure reproducibility.
+
+---
+
+## How to Reproduce
+
+1. Run data download scripts
+2. Merge datasets
+3. Execute notebook analysis
+
+---
+
+## Tools Used
+Python, pandas, statsmodels, linearmodels, matplotlib, seaborn, Eurostat API
