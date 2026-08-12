@@ -1,0 +1,13 @@
+{
+  "countries": 8,
+  "months": 312,
+  "expected_rows": 2496,
+  "complete_rows": 2496,
+  "missing_hicp": 0,
+  "missing_unemployment": 0,
+  "duplicate_country_months": 0,
+  "start": "2000-01",
+  "end": "2025-12",
+  "model_rows": 2448,
+  "rows_removed_by_lag": 48
+}

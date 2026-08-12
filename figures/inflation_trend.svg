@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+<rect width="1200" height="560" fill="#ffffff"/>
+<text x="70" y="55" font-family="Arial" font-size="26" font-weight="700" fill="#172033">Average annual HICP inflation across eight euro-area economies</text>
+<text x="70" y="82" font-family="Arial" font-size="15" fill="#5b677a">Eurostat annual rate of change, monthly observations</text>
+<g stroke="#d9e1ec" stroke-width="1">
+<line x1="85" y1="455" x2="1145" y2="455"/><line x1="85" y1="397" x2="1145" y2="397"/><line x1="85" y1="339" x2="1145" y2="339"/><line x1="85" y1="281" x2="1145" y2="281"/><line x1="85" y1="223" x2="1145" y2="223"/><line x1="85" y1="165" x2="1145" y2="165"/><line x1="85" y1="107" x2="1145" y2="107"/>
+</g>
+<rect x="914" y="95" width="81" height="360" fill="#f59e0b" opacity=".09"/>
+<line x1="85" y1="397" x2="1145" y2="397" stroke="#d97706" stroke-width="2" stroke-dasharray="8 7"/>
+<text x="1080" y="387" font-family="Arial" font-size="14" fill="#d97706">2%</text>
+<polyline fill="none" stroke="#2457a7" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" points="85,405 126,387 167,390 208,395 249,377 290,392 331,371 372,397 413,405 454,399 495,391 536,396 577,389 618,402 659,407 700,411 741,398 782,402 823,397 864,410 905,384 946,295 967,126 986,243 1027,357 1068,386 1109,385 1145,390"/>
+<circle cx="967" cy="126" r="6" fill="#d97706"/>
+<text x="980" y="118" font-family="Arial" font-size="14" font-weight="700" fill="#172033">Oct 2022: 11.34%</text>
+<g font-family="Arial" font-size="13" fill="#5b677a">
+<text x="50" y="460">0</text><text x="50" y="402">2</text><text x="50" y="344">4</text><text x="50" y="286">6</text><text x="50" y="228">8</text><text x="42" y="170">10</text><text x="42" y="112">12</text>
+<text x="75" y="490">2000</text><text x="275" y="490">2005</text><text x="475" y="490">2010</text><text x="675" y="490">2015</text><text x="875" y="490">2020</text><text x="1085" y="490">2025</text>
+</g>
+<text x="28" y="300" transform="rotate(-90 28 300)" font-family="Arial" font-size="15" fill="#172033">Annual rate of change (%)</text>
+<text x="70" y="535" font-family="Arial" font-size="13" fill="#6b7280">Sample: AT, BE, DE, ES, FR, IT, NL, PT. The 2021–2023 surge is a common shock central to the model design.</text>
+</svg>

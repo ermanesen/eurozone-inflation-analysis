@@ -1,0 +1,9 @@
+pandas>=2.2,<3.0
+numpy>=1.26,<3.0
+matplotlib>=3.8,<4.0
+requests>=2.32,<3.0
+linearmodels>=6.1,<8.0
+scipy>=1.12,<2.0
+jupyter>=1.1,<2.0
+nbconvert>=7.16,<8.0
+pytest>=8.3,<9.0

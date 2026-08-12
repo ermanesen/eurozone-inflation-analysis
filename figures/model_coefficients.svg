@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="950" height="430" viewBox="0 0 950 430">
+<rect width="950" height="430" fill="#ffffff"/>
+<text x="55" y="55" font-family="Arial" font-size="25" font-weight="700" fill="#172033">Estimated effect of lagged unemployment</text>
+<text x="55" y="82" font-family="Arial" font-size="15" fill="#5b677a">Change in annual HICP inflation for a 1 pp increase in unemployment, 95% CI</text>
+<g stroke="#d9e1ec" stroke-width="1"><line x1="360" y1="115" x2="360" y2="330"/><line x1="495" y1="115" x2="495" y2="330"/><line x1="630" y1="115" x2="630" y2="330"/><line x1="765" y1="115" x2="765" y2="330"/></g>
+<line x1="765" y1="105" x2="765" y2="335" stroke="#d97706" stroke-width="2" stroke-dasharray="7 6"/>
+<g stroke="#2457a7" stroke-width="4" fill="#2457a7">
+<line x1="271" y1="175" x2="561" y2="175"/><line x1="271" y1="163" x2="271" y2="187"/><line x1="561" y1="163" x2="561" y2="187"/><circle cx="416" cy="175" r="8"/>
+<line x1="630" y1="270" x2="699" y2="270"/><line x1="630" y1="258" x2="630" y2="282"/><line x1="699" y1="258" x2="699" y2="282"/><circle cx="664" cy="270" r="8"/>
+</g>
+<g font-family="Arial" fill="#172033"><text x="55" y="181" font-size="16">Country fixed effects</text><text x="55" y="276" font-size="16">Country + month fixed effects</text><text x="430" y="157" font-size="14" font-weight="700">−0.259</text><text x="676" y="252" font-size="14" font-weight="700">−0.106</text></g>
+<g font-family="Arial" font-size="13" fill="#5b677a"><text x="344" y="360">−0.4</text><text x="479" y="360">−0.3</text><text x="614" y="360">−0.2</text><text x="749" y="360">−0.1</text><text x="885" y="360">0.0</text></g>
+<text x="55" y="405" font-family="Arial" font-size="13" fill="#6b7280">Country-clustered standard errors; 2,448 observations and eight country clusters.</text>
+</svg>

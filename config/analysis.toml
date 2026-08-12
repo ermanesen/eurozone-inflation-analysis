@@ -1,0 +1,19 @@
+[analysis]
+countries = ["AT", "BE", "DE", "ES", "FR", "IT", "NL", "PT"]
+start = "2000-01"
+end = "2025-12"
+unemployment_lag_months = 6
+
+[datasets]
+hicp = "prc_hicp_manr"
+unemployment = "une_rt_m"
+
+[country_names]
+AT = "Austria"
+BE = "Belgium"
+DE = "Germany"
+ES = "Spain"
+FR = "France"
+IT = "Italy"
+NL = "Netherlands"
+PT = "Portugal"
