@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="950" height="540" viewBox="0 0 950 540">
+<rect width="950" height="540" fill="#ffffff"/>
+<text x="55" y="55" font-family="Arial" font-size="24" font-weight="700" fill="#172033">Phillips-curve relationship after country and month effects</text>
+<text x="55" y="82" font-family="Arial" font-size="15" fill="#5b677a">Residualized annual HICP inflation and six-month-lagged unemployment</text>
+<g stroke="#d9e1ec" stroke-width="1"><line x1="90" y1="440" x2="895" y2="440"/><line x1="90" y1="355" x2="895" y2="355"/><line x1="90" y1="270" x2="895" y2="270"/><line x1="90" y1="185" x2="895" y2="185"/><line x1="90" y1="100" x2="895" y2="100"/><line x1="492" y1="95" x2="492" y2="440"/></g>
+<g fill="#2457a7" opacity=".22">
+<circle cx="185" cy="342" r="6"/><circle cx="228" cy="292" r="5"/><circle cx="260" cy="319" r="6"/><circle cx="296" cy="273" r="5"/><circle cx="330" cy="302" r="7"/><circle cx="365" cy="250" r="6"/><circle cx="398" cy="283" r="5"/><circle cx="425" cy="218" r="6"/><circle cx="455" cy="245" r="7"/><circle cx="480" cy="232" r="5"/><circle cx="510" cy="255" r="6"/><circle cx="540" cy="230" r="6"/><circle cx="567" cy="198" r="5"/><circle cx="598" cy="214" r="7"/><circle cx="632" cy="176" r="6"/><circle cx="670" cy="202" r="5"/><circle cx="707" cy="159" r="7"/><circle cx="755" cy="169" r="6"/><circle cx="802" cy="132" r="7"/>
+<circle cx="205" cy="365" r="5"/><circle cx="285" cy="335" r="5"/><circle cx="350" cy="323" r="5"/><circle cx="440" cy="278" r="5"/><circle cx="520" cy="286" r="5"/><circle cx="590" cy="246" r="5"/><circle cx="690" cy="221" r="5"/><circle cx="780" cy="185" r="5"/>
+</g>
+<line x1="150" y1="352" x2="835" y2="138" stroke="#d97706" stroke-width="3"/>
+<g font-family="Arial" font-size="13" fill="#5b677a"><text x="80" y="465">−4</text><text x="280" y="465">−2</text><text x="487" y="465">0</text><text x="688" y="465">2</text><text x="886" y="465">4</text></g>
+<text x="310" y="505" font-family="Arial" font-size="15" fill="#172033">Lagged unemployment, residualized (percentage points)</text>
+<text x="28" y="330" transform="rotate(-90 28 330)" font-family="Arial" font-size="15" fill="#172033">Annual HICP inflation, residualized</text>
+<text x="650" y="480" font-family="Arial" font-size="13" fill="#d97706">Slope = −0.106</text>
+</svg>

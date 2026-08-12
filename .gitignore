@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.coverage
+htmlcov/
+
+data/raw/*
+!data/raw/.gitkeep
+
+*.log
+.DS_Store
+Thumbs.db
